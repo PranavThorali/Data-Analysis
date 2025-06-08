@@ -35,7 +35,7 @@ This repository showcases a collection of real-world data projects I've worked o
 
 ---
 
-### 5. 📚 Exploratory Data Analysis
+### 5.  Exploratory Data Analysis
 - **Tools:** Python, Excel, SQL, Tableau, PowerBI, Machine Learning Algorithms 
 - **Focus:** CustomerChurnPrediction, RedWineDataset, FlightPredictions  
 - **Highlights:** ML Algorithms (RF Classifier, Regression etc.), Data visualization 
