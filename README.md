@@ -51,7 +51,7 @@ I'm a Master's student in Software Engineering at Northeastern University with a
 ---
 
 ## 📥 How to Explore
-1. Clone this repo using `git clone https://github.com/yourusername/data-analysis-portfolio`
+1. Clone this repo using `git clone https://github.com/PranavThorali/Data-Analysis`
 2. Navigate to each project folder to view source files and documentation.
 3. Open `.pbix` or `.twb` files using Power BI or Tableau Desktop respectively.
 
