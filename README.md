@@ -1,7 +1,7 @@
 # 📊 Data Analysis Portfolio
 
 Welcome to my data analysis project portfolio!  
-This repository showcases a collection of real-world data projects I've worked on using tools like **Excel**, **SQL**, **Tableau**, and **Power BI**. Each project demonstrates data cleaning, transformation, analysis, and visualization techniques applied to diverse domains.
+This repository showcases a collection of real-world data projects I've worked on using tools like **Excel**, **SQL**, **Tableau**, **Python**,and **Power BI**. Each project demonstrates data cleaning, transformation, analysis, and visualization techniques applied to diverse domains.
 
 ---
 
@@ -32,6 +32,13 @@ This repository showcases a collection of real-world data projects I've worked o
 - **Tools:** Python Libraries for Data Analysis 
 - **Focus:** Goal distribution, xG Distribution, Player Analysis  
 - **Highlights:** Year-wise Player-Goal-xG trends, League by League Analysis, Data visualization  
+
+---
+
+### 5. 📚 Exploratory Data Analysis
+- **Tools:** Python, Excel, SQL, Tableau, PowerBI, Machine Learning Algorithms 
+- **Focus:** CustomerChurnPrediction, RedWineDataset, FlightPredictions  
+- **Highlights:** ML Algorithms (RF Classifier, Regression etc.), Data visualization 
 
 ---
 
