@@ -10,7 +10,7 @@ This repository showcases a collection of real-world data projects I've worked o
 ### 1. 💼 Insurance Claim Risk Analysis
 - **Tools:** SQL, Power BI  
 - **Focus:** Identifying high-risk claims, fraud detection patterns  
-- **Highlights:** SQL joins, aggregations, DAX measures, risk segmentation dashboard  
+- **Highlights:** Data aggregations, DAX measures, risk segmentation dashboard  
 
 ---
 
