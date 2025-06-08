@@ -25,7 +25,6 @@ This repository showcases a collection of real-world data projects I've worked o
 - **Tools:** SQL, Tableau  
 - **Focus:** Analyzing mental health survey responses  
 - **Highlights:** Age/gender breakdown, Depression Survey Analysis, behavioral patterns  
-- [🔗 View Project](https://github.com/yourusername/depression-analysis)
 
 ---
 
