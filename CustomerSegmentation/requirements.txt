@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+plotly
+tqdm
+streamlit
+
+# Optional for enhanced clustering or dashboards
+jupyter
